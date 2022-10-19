@@ -2,7 +2,7 @@
 Analyze a instagram profile and create a youtube playlist of mentioned artists from a range of X posts. 
 - Being tested with @bipoc_punk
 - Uses python, Agile SW development
-- Uses [Youtube API](https://developers.google.com/youtube/v3/guides/implementation/playlists), [Discogs API](https://www.discogs.com/developers/#page:home,header:home-faq), and [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api/).
+- Uses [Youtube API](https://developers.google.com/youtube/v3/guides/implementation/playlists), [Discogs API](https://python3-discogs-client.readthedocs.io/en/latest/about.html), and [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api/).
 
 ### User Stories: 
 - I follow this instagram account and they always posts artists they like. 
